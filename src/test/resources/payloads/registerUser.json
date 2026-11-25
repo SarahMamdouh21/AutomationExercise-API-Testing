@@ -1,0 +1,19 @@
+{
+  "name": "Sarah Test",
+  "email": "sarahtest2026@gmail.com",
+  "password": "Password123",
+  "title": "Mrs",
+  "birth_date": "15",
+  "birth_month": "June",
+  "birth_year": "2000",
+  "firstname": "Sarah",
+  "lastname": "Mamdouh",
+  "company": "Dashiot",
+  "address1": "Cairo Street",
+  "address2": "Apt 4",
+  "country": "India",
+  "zipcode": "12345",
+  "state": "Cairo",
+  "city": "Cairo",
+  "mobile_number": "01234567891"
+}
